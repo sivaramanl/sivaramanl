@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Sivaraman 👋
+
+I'm a software engineer at Everlaw, passionate about building scalable systems and adopting artificial intelligence tools.
+
+- 🔭 I’m currently working on building solutions at Everlaw
+- 🌱 Learning more about distributed systems and artificial intelligence
+- 🛠️ Tools I use: Java, Python, Spring Boot, Terraform, AWS, React, Git
+
+📫 How to reach me: [[Email](sivaramanlakshmipathy@gmail.com)] • [[LinkedIn](https://www.linkedin.com/in/sivaraman-lakshmipathy)]
 
 <!--
 **sivaramanl/sivaramanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
